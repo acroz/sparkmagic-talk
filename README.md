@@ -21,6 +21,11 @@ In this talk I presented:
 Any questions or feedback are welcome either as GitHub issues on this repo, or
 directly over email at wacrozier@gmail.com.
 
+## Contribute
+
+[pylivy][pylivy] doesn't yet support nearly all the features provided by Livy.
+If you'd like to contribute please get in touch!
+
 [spark]: https://spark.apache.org
 [livy]: https://livy.incubator.apache.org
 [sparkmagic]: https://github.com/jupyter-incubator/sparkmagic
