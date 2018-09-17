@@ -2,7 +2,7 @@
 
 This repo contains slides and a demo notebook from my talk at PyCon UK 2018.
 
-## Content
+## Content
 
 In this talk I presented:
 
@@ -21,7 +21,7 @@ In this talk I presented:
 Any questions or feedback are welcome either as GitHub issues on this repo, or
 directly over email at wacrozier@gmail.com.
 
-## Contribute
+## Contribute
 
 [pylivy][pylivy] doesn't yet support nearly all the features provided by Livy.
 If you'd like to contribute please get in touch!
