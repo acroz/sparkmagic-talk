@@ -2,6 +2,8 @@
 
 This repo contains slides and a demo notebook from my talk at PyCon UK 2018.
 
+You can watch the talk [on youtube][talk on youtube].
+
 ## Content
 
 In this talk I presented:
@@ -26,6 +28,7 @@ directly over email at wacrozier@gmail.com.
 [pylivy][pylivy] doesn't yet support nearly all the features provided by Livy.
 If you'd like to contribute please get in touch!
 
+[talk on youtube]: https://www.youtube.com/watch?v=iHg0NwEjbxk
 [spark]: https://spark.apache.org
 [livy]: https://livy.incubator.apache.org
 [sparkmagic]: https://github.com/jupyter-incubator/sparkmagic
